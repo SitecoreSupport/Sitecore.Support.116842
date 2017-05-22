@@ -57,7 +57,7 @@
       <HintPath>..\packages\SC.Sitecore.ExperienceEditor.Speak.8.2.2\lib\Sitecore.ExperienceEditor.Speak.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Sitecore.Kernel">
+    <Reference Include="Sitecore.Kernel, Version=8.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\SC.Sitecore.Kernel.8.1.1\lib\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
